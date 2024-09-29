@@ -11,14 +11,12 @@
     I have Worked on multiple programming languages including Java, PHP ,Advance Java, Html, Python, JavaScript, CSS, and MYSQL.
 </p>
 <br>
-
 - 🌱 I’m currently Working on Project Management Skill's**
    - **AI&ML Model**
    - **Advanced Android Devlopment**
    - **DvOps**
    - **Project Management Skill's**
    
-
 - 👯 Completed one's 
    - **Hospital Management System**
    - **Employee Attendance System**
@@ -27,12 +25,10 @@
   - **PHP**
   - **Python**
   
-
 - ⚡ Fun fact 
   - **I Know basic's of software tasting.**
   - **AnFunny Guy**
   - **both introvert As Wll As Extrovert🤞**
-  
  <br>
  <p>I like to learning , enjoying During building new , productive, innovative, and creative projects. 
     During Day to Day Life , I Am passionate to Sport , listening to music 🎵 and  exploring nature🍂.
