@@ -10,25 +10,29 @@
 </p>
 <img align="right" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt=" img 🥹" width="450" height="400">
 <br>
-- 🌱 I’m currently Working on
+- 🌱 I’m currently Working on 
 
    - **AI&ML Model**
    - **Advanced Android Devlopment**
    - **DvOps**
    - **Project Management Skill's**
    <br>
-- 👯 Completed one's 
+- 👯 Completed one's
+  
    - **Hospital Management System**
    - **Employee Attendance System**
-
+<br>
 - 🔭 Inhanced languages
+  
   - **PHP**
   - **Python**
-  
-- ⚡ Fun fact 
+  - <br>
+- ⚡ Fun fact
+- 
   - **I Know basic's of software tasting.**
   - **AnFunny Guy**
   - **both introvert As Wll As Extrovert🤞**
+
  <br>
  <p>I like to learning , enjoying During building new , productive, innovative, and creative projects. 
     During Day to Day Life , I Am passionate to Sport , listening to music 🎵 and  exploring nature🍂.
