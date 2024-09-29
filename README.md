@@ -28,14 +28,14 @@
   - **Python**
    <br>
 - ⚡ Fun fact
-- 
+
   - **I Know basic's of software tasting.**
   - **AnFunny Guy**
   - **both introvert As Wll As Extrovert🤞**
 
  <br>
- <p>I like to learning , enjoying During building new , productive, innovative, and creative projects. 
-    During Day to Day Life,I Am passionate to Sport,listening to music 🎵 and  exploring nature🍂.
+ <p>I like to learning, enjoying During building new productive, innovative and creative projects. 
+    During Day to Day Life, I Am passionate to Sport, listening to music 🎵 and exploring nature🍂.
 </p>
 
 <h3 align="left">Connect with me:</h3>
