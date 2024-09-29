@@ -8,9 +8,10 @@
     I've Completed My Diploma in Computer Science Engineering in 2023.
     I have Worked on multiple programming languages including Java, PHP ,Advance Java, Html, Python, JavaScript, CSS, and MYSQL.
 </p>
-<img align="right" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt=" img 🥹" width="400" height="400">
+<img align="right" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt=" img 🥹" width="450" height="400">
 <br>
 - 🌱 I’m currently Working on
+
    - **AI&ML Model**
    - **Advanced Android Devlopment**
    - **DvOps**
