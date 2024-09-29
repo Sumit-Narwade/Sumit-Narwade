@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Developer</h3>
 <br>
 <br>
-<img align="right" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt=" img 🥹">
+<img align="right" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt=" img 🥹" width="400" height="400">
 
 <p>
     I am an undergraduate Production Engineering student at SGGSIE&T Nanded, Maharashtra, 
