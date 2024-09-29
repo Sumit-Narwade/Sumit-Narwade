@@ -6,7 +6,7 @@
 <p>
     I am an undergraduate Production Engineering student at SGGSIE&T Nanded, Maharashtra, 
     I've Completed My Diploma in Computer Science Engineering in 2023.
-    I have Worked on multiple programming languages including Java, PHP ,Advance Java, Html, Python, JavaScript, CSS, and MYSQL.
+    I have Worked on multiple programming languages including Java, PHP ,Advance Java, Html, Python, JavaScript, CSS, MYSQL and Android Devlopment .
 </p>
 <img align="right" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt=" img 🥹" >
 <br>
