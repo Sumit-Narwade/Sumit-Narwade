@@ -26,12 +26,6 @@
   
   - **PHP**
   - **Python**
-   <br>
-- ⚡ Fun fact
-
-  - **I Know basic's of software tasting.**
-  - **AnFunny Guy**
-  - **both introvert As Wll As Extrovert🤞**
 
  <br>
  <p>I like to learning, enjoying During building new productive, innovative and creative projects. 
